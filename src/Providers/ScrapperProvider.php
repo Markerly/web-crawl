@@ -1,10 +1,10 @@
 <?php
 
-namespace Markerly\Scrapper\Providers;
+namespace Markerly\WebCraw\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class ScrapperProvider extends ServiceProvider
+class WebCrawProvider extends ServiceProvider
 {
     /**
      * Bootstrap services.
